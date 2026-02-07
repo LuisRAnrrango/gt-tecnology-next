@@ -93,7 +93,7 @@ const services = [
   {
     slug: "canales-online",
     icon: Radio,
-    title: "Canales Online (Fluho/Flow TV)",
+    title: "Canales Online (Flujo/Flujo TV)",
     description:
       "Activación de servicios de televisión por internet, configuración en Smart TV y dispositivos, soporte técnico especializado.",
     benefits: [
